@@ -32,6 +32,12 @@ The classic retro game recreated using `Qt` and `C++`.
 | Move right   | <kbd>right</kbd>    |
 | Fire bullets | <kbd>spacebar</kbd> |
 
+## Bugs
+
+if you find any bugs, just write me.
+
+kamil.kielbasa13@gmail.com
+
 ## License
 
 This code is licensed under the GNU GENERAL PUBLIC LICENSE, of which a textual copy is available at [LICENSE.txt](LICENSE.txt).
